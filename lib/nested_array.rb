@@ -44,5 +44,5 @@ def matrix_update(matrix, row, column, new_value)
   # Return the updated matrix
 @assembled_matrix[1][1]
 @assembled_matrix[1]= "Hi"
-@assembled_matrix[1][]
+@assembled_matrix[1][1]
 end
